@@ -7,4 +7,6 @@ paneer paratha
 methi paratha
 gobi paratha
 palak paratha 
+pulse paratha
+ginger paratha
 
