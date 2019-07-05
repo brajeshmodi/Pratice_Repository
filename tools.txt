@@ -1,0 +1,13 @@
+here , i an describing many toools 
+aws for cloud computing 
+devops for software methology tools
+git 
+maven 
+jenkins
+ansible
+docker 
+docker-swarm
+kubernetes
+linux
+scripting
+shell
