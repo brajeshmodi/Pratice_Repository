@@ -3,3 +3,8 @@ kheer
 dum aloo
 paratha
 aloo ghobi
+paneer paratha 
+methi paratha
+gobi paratha
+palak paratha 
+
