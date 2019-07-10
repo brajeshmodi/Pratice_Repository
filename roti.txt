@@ -14,3 +14,6 @@ nan roti
 tandoori roti
 mix roti
 palak puri
+masala 
+bhindi 
+panui
